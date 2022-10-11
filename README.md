@@ -1,0 +1,2 @@
+# maSlomiany
+Programowanie objektowe
