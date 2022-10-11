@@ -1,5 +1,5 @@
-# maSlomiany
-Programowanie objektowe
+# Programowanie objektowe
+
 
 Aplikacja Sport na PWr
 
